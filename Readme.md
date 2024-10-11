@@ -42,6 +42,8 @@ OR
 
    ![image](https://github.com/user-attachments/assets/d0a952d2-1f57-4c5c-98a9-20bf11187c3d)
 
-6.
+## playing with head
+![image](https://github.com/user-attachments/assets/01b01629-9c48-4bb1-a4b3-83c072d016c0)
+
 
 # Want to practice more use this link: https://learngitbranching.js.org/
