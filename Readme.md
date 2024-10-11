@@ -30,18 +30,18 @@ OR
 3. :q to quit if you dont want to add any message
 
 ## git rebase
+
 1. git checkout \<branch name\>
-2. git rebase main
-   
+2. git commit (to commit the changes)
+3. git rebase main
+
    ![image](https://github.com/user-attachments/assets/e074a105-acfe-47bd-9644-13cbd64b0ac6)
-   
+
 4. git checkout main
 5. git rebase bugfix
-   
+
    ![image](https://github.com/user-attachments/assets/d0a952d2-1f57-4c5c-98a9-20bf11187c3d)
-7. 
 
-
-
+6.
 
 # Want to practice more use this link: https://learngitbranching.js.org/
