@@ -18,3 +18,15 @@
 
 1. git branch \<branch name\>
 2. git checkout \<branch name\>
+
+OR
+
+1. git checkout -b \<branch name\>
+
+## to merge the changes in main
+
+1. git checkout main
+2. git merge \<branch name\>
+3. :q to quit if you dont want to add any message
+
+# Want to practice more use this link: https://learngitbranching.js.org/
